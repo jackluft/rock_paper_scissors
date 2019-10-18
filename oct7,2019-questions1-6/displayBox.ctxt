@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=displayBox
+comment1.params=args
+comment1.target=void\ man(java.lang.String[])
+comment2.params=w\ h
+comment2.target=void\ Box(int,\ int)
+numComments=3
